@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Smart Technologies | Isle of Man Payroll Software</title>
+    <link>https://smarttech.im/services/</link>
+    <description>Recent content in Services on Smart Technologies | Isle of Man Payroll Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://smarttech.im/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Payroll Software</title>
+      <link>https://smarttech.im/services/payrollsoftware/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://smarttech.im/services/payrollsoftware/</guid>
+      <description>&lt;p&gt;Payroll is core to business, it doesn&amp;rsquo;t have to be hard. With &lt;a href=&#34;https://smartpay.im/&#34;&gt;Smart Pay&lt;/a&gt; everything is at your fingertips tips.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pay Calculator</title>
+      <link>https://smarttech.im/services/paycalculator/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://smarttech.im/services/paycalculator/</guid>
+      <description>&lt;p&gt;Sometimes you just need to know what you should be paying. Because of this we have created an Isle of Man Pay Calculator.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Employee Portal</title>
+      <link>https://smarttech.im/services/employeeportal/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://smarttech.im/services/employeeportal/</guid>
+      <description>&lt;p&gt;Most of the information in a payroll comes from your employee and goes back out to them in the form of payslips and T14 reports. So we thought why not just give them access to it directly. That&amp;rsquo;s where the idea of the Employee Portal comes in.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
